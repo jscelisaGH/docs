@@ -4,20 +4,20 @@ En este repositorio se alojará material de apoyo para los integrantes del grupo
 
 ## Líneas de Investigación
 
-- Anatomía digital por imágenes *(Diana Giraldo)*
-- Patología digital *(Ricardo)*
-- Análisis de movimiento y bioseñales *(Gustavo)*
+- [Anatomía digital por imágenes](/digital_anatomy) *(Diana Giraldo)*
+- [Patología digital](/digital_patholog) *(Ricardo)*
+- [Análisis de movimiento y bioseñales](/motion_and_biosignal_analysis) *(Gustavo)*
 
 ## Temas transversales
 
-- Matemáticas básicas *(Andrés)*
-- Programación *(Josué)*
-- Estadídtica y análisis de datos *(Jonnathan)*
-- Machine Learning *(Nelson)*
-- Procesamiento de imágenes y señales *(Juan Celis)*
-- Morfofisiología *(Jully)*
+- [Matemáticas básicas](/maths) *(Andrés)*
+- [Programación](/programming) *(Josué)*
+- [Estadídtica y análisis de datos](/data_science) *(Jonnathan)*
+- [Machine Learning](/machine_learning) *(Nelson)*
+- [Procesamiento de imágenes y señales](/signal_and_image_processing) *(Juan Celis)*
+- [Morfofisiología](/morphophysiology) *(Jully)*
 
 ## Investigación
 
-- Scientific writing and communication *(Charlems)*
-- Buenas Prácticas en Investigación *(Jennifer?)*
+- [Scientific writing and communication](/scientific_communication) *(Charlems)*
+- [Buenas Prácticas en Investigación](/research_practices) *(Jennifer?)*
