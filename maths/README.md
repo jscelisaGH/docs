@@ -14,7 +14,12 @@ Referencias/links
 
 Descripción y link
 
+Functions
+Derivative
+ALgebra concepts
+* definitions, vector, matrix
+* Gauss elimination
+* vectorial space
 
-	
 
 
