@@ -18,5 +18,5 @@ Gentle introduction to Machine Learning
 	
 Support Vector Machines
 -	[SVM](https://www.youtube.com/watch?v=efR1C6CvhmE)
--	[Linear kernel](https://www.youtube.com/watch?v=Toet3EiSFcM)
+-	[Polynomial kernel](https://www.youtube.com/watch?v=Toet3EiSFcM)
 -	[RBF kernel](https://www.youtube.com/watch?v=Qc5IyLW_hns)
