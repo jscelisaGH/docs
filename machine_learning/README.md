@@ -12,8 +12,8 @@ Referencias/links
 
 ## Tutoriales
 
-Descripción y link
-
+Gentle introduction to Machine Learning
+	https://www.youtube.com/watch?v=Gv9_4yMHFhI
 
 	
 
