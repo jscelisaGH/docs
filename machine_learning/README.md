@@ -11,10 +11,12 @@ Referencias (no subir archivos a menos que sean libres)
 Referencias/links
 
 ## Tutoriales
-
+### Youtube
 Gentle introduction to Machine Learning
-	https://www.youtube.com/watch?v=Gv9_4yMHFhI
+-	[Intro](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
 
 	
-
-
+Support Vector Machines
+-	[SVM](https://www.youtube.com/watch?v=efR1C6CvhmE)
+-	[Linear kernel](https://www.youtube.com/watch?v=Toet3EiSFcM)
+-	[RBF kernel](https://www.youtube.com/watch?v=Qc5IyLW_hns)
