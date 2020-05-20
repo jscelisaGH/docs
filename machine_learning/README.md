@@ -16,7 +16,5 @@ Gentle introduction to Machine Learning
 -	[Intro](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
 
 	
-Support Vector Machines
--	[SVM](https://www.youtube.com/watch?v=efR1C6CvhmE)
--	[Polynomial kernel](https://www.youtube.com/watch?v=Toet3EiSFcM)
--	[RBF kernel](https://www.youtube.com/watch?v=Qc5IyLW_hns)
+StatQuest Channel
+-	[StatQuest](https://www.youtube.com/user/joshstarmer)
