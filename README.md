@@ -17,7 +17,7 @@ Encargado: *Gustavo*
 Encargado: *[Andrés](https://github.com/andrescarrera)*
 - [Programación](/programming)  
 Encargado: *[Josué](https://github.com/jaruanob)*
-- [Estadídtica y análisis de datos](/data_science)  
+- [Estadística y análisis de datos](/data_science)  
 Encargado: *Jonnathan*
 - [Machine Learning](/machine_learning)  
 Encargado: *[Nelson](https://github.com/nelsonfvt)*
