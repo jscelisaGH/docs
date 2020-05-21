@@ -18,3 +18,7 @@ Gentle introduction to Machine Learning
 	
 StatQuest Channel
 -	[StatQuest](https://www.youtube.com/user/joshstarmer)
+
+### Python
+Library for Machine Learning
+-	[Scikit-learn](https://scikit-learn.org/stable/)
