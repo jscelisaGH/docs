@@ -8,9 +8,9 @@ Referencias (no subir archivos a menos que sean libres)
 
 ## Artículos
 ### On-line
--	[Performance os metrics](https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
+-	[Performance of metrics](https://medium.com/thalus-ai/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)
 
-Referencias/links
+### In-databases
 
 ## Tutoriales
 ### Youtube
