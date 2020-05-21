@@ -22,3 +22,6 @@ StatQuest Channel
 ### Python
 Library for Machine Learning
 -	[Scikit-learn](https://scikit-learn.org/stable/)
+
+### Towards data science
+-	[TDS-Machine learning](https://towardsdatascience.com/machine-learning/home)
