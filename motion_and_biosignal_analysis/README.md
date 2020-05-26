@@ -2,11 +2,26 @@
 
 Lista de recursos y material
 
-# Libros
+# Libros 
 
 ## Biomecánica
-Winter, D. A. (2009). Biomechanics and motor control of human movement. John Wiley & Sons.
+
+*Stergiou, N. (2016). Nonlinear analysis for human movement variability. CRC Press.
+
+*2016 Biomechanics and Motor Control Defining Central Concepts Mark L. Latash and Vladimir M. Zatsiorsky Department of Kinesiology, The Pennsylvania State University, PA, USA. ELSEVIER
+
+*Winter, D. A. (2009). Biomechanics and motor control of human movement. John Wiley & Sons.
 Referencias (no subir archivos a menos que sean libres)
+
+# Repositorios
+
+## Conceptos de Vision Artificial
+
+*Majumder, A., & Gopi, M. (2018). Introduction to Visual Computing: Core Concepts in Computer Vision, Graphics, and Image Processing. CRC Press. Cap 7-9 motion tracking
+
+*Deep hierarchies in the primate visual cortex: What can we learn for computer vision?. Kruger, N., Janssen, P., Kalkan, S., Lappe, M., Leonardis, A., Piater, J., ... & Wiskott, L. (2012). IEEE transactions on pattern analysis and machine intelligence, 35(8), 1847-1871.
+
+*Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. Medathati, N. K., Neumann, H., Masson, G. S., & Kornprobst, P. (2016). Bio-inspired computer vision: Towards a synergistic approach of artificial and biological vision. Computer Vision and Image Understanding, 150, 1-30Computer Vision and Image Understanding, 150, 1-30
 
 ## Artículos: repositorios con código Pose Estimation
 
@@ -25,9 +40,14 @@ https://paperswithcode.com/task/motion-capture/latest
 https://e-archivo.uc3m.es/bitstream/handle/10016/26542/videobased_2015.pdf
 
 
-## Tutoriales
+# Bases de datos movimiento (se debe solicitar acceso)
 
-Descripción y link
+* HUMAN 3.5 : http://vision.imar.ro/human3.6m/description.php
+* HUMANEVA : http://humaneva.is.tue.mpg.de/ 
+
+# Bases de datos señales biomédicas (Sensores de movimiento, ECG, EGG )
+
+PhysioNet The Research Resource for Complex Physiologic Signal:  https://physionet.org/  (free-access)
 
 
 	
