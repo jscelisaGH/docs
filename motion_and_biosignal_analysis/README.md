@@ -1,6 +1,8 @@
 # Template
 
-Lista de recursos y material
+*Libros de Biomecánica y visión artificial
+*Repositorios (motion tracking) y bases de datos de movimiento- señales 
+*Software para segmentación manual de Movimiento
 
 # Libros 
 
@@ -53,14 +55,23 @@ https://e-archivo.uc3m.es/bitstream/handle/10016/26542/videobased_2015.pdf
 
 * HUMAN 3.5 : http://vision.imar.ro/human3.6m/description.php
 * HUMANEVA : http://humaneva.is.tue.mpg.de/ 
+
 ** 2010 GaitaBase: Web-based repository system for gait analysis Author links open overlay panel. Oren Tirosh, Richard Baker, Jenny McGinley
+
 *2010 GaitaBase: Web-based repository system for gait analysis Author links open overlay panel. Oren Tirosh, Richard Baker, Jenny McGinley
+
+*A large calibrated database of hand movements and grasps kinematics Néstor J. Jarque-Bou, Manfredo Atzori & Henning Müller 
+https://www.nature.com/articles/s41597-019-0349-2 
+
+*A calibrated database of kinematics and EMG of the forearm and hand during activities of daily living Néstor J. Jarque-Bou, Margarita Vergara, Joaquín L. Sancho-Bru, Verónica Gracia-Ibáñez & Alba Roda-Sales   https://www.nature.com/articles/s41597-019-0285-1
+
+Tracking body and hands for gesture recognition: Natops aircraft handling signals database
 
 ## Bases de datos señales biomédicas (Sensores de movimiento, ECG, EGG )
 
 PhysioNet The Research Resource for Complex Physiologic Signal:  https://physionet.org/  (free-access)
 
-# software de segmentación manual de movimiento en video
+# Software de segmentación manual de movimiento en video
 
 *Kinovea:
  
