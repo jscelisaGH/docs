@@ -1,7 +1,9 @@
 # Template
 
 *Libros de Biomecánica y visión artificial
+
 *Repositorios (motion tracking) y bases de datos de movimiento- señales 
+
 *Software para segmentación manual de Movimiento
 
 # Libros 
