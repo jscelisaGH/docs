@@ -1,14 +1,13 @@
 # Template
 
-Lista de recursos y material
+Manuales en general
 
 ## Libros
 
-Referencias (no subir archivos a menos que sean libres)
 
 ## Artículos
 
-Referencias/links
+Reporte de la Comisión Nacional para la Protección de Sujetos Humanos de Investigación Biomédica y de Comportamiento (Abril 18, 1979)
 
 ## Tutoriales
 
