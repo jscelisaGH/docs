@@ -19,17 +19,18 @@ Referencias
 
 ## Human diseases
 
-- **Cancer**
-**Silverthorne E(2009).** *Cancer*
+**Cancer**
+- **Silverthorne E(2009).** *Cancer*
+- **Ruddon R(2007).** *Cancer Biology*
 
-- **Lung Cancer**
-**Ferreiro C, Alcamo E(2007).** *Lung Cancer*
+**Lung Cancer**
+- **Ferreiro C, Alcamo E(2007).** *Lung Cancer*
 
-- **Prostate Cancer**
-**Cramer S(2007).** *Prostate Cancer (Deadly Diseases and Epidemics)*
+**Prostate Cancer**
+- **Cramer S(2007).** *Prostate Cancer (Deadly Diseases and Epidemics)*
 
-- **Prostate Cancer**
-**Cramer S(2007).** *Prostate Cancer (Deadly Diseases and Epidemics)*
+**Gastric Cancer**
+- **Gore R(2010).** *Gastric Cancer*
 
 ## Artículos
 
