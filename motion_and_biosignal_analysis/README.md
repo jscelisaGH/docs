@@ -34,8 +34,6 @@ https://colab.research.google.com/drive/1XNsXaSb3A2oJKLsG82FG4srYcgH7eAuW
 
 Learnable Triangulation of Human Pose (page and code) https://saic-violet.github.io/learnable-triangulation/
 
-Estado del arte en metodologías de Tracking de movimiento: https://docs.google.com/document/d/1Pas9wJ49f9aTWFHnih6zLucQE_Fbw3hL3JF5vT0G500/edit?usp=sharing
-
 Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR2019)
 Paper: https://arxiv.org/abs/1903.02330
 Code: https://github.com/mkocabas/EpipolarPose
@@ -51,6 +49,9 @@ https://ps.is.tuebingen.mpg.de/code
 https://paperswithcode.com/task/motion-capture/latest
 
 https://e-archivo.uc3m.es/bitstream/handle/10016/26542/videobased_2015.pdf
+
+Estado del arte en metodologías de Tracking de movimiento: https://docs.google.com/document/d/1Pas9wJ49f9aTWFHnih6zLucQE_Fbw3hL3JF5vT0G500/edit?usp=sharing
+
 
 
 ## Bases de datos movimiento (se debe solicitar acceso)
@@ -79,14 +80,18 @@ PhysioNet The Research Resource for Complex Physiologic Signal:  https://physion
  
 Descargar  kinovea https://www.kinovea.org/en/forum/viewtopic.php?id=854
 Tutoriales Kinovea: 
+
 seguir ángulos y sus gráficas:https://www.youtube.com/watch?v=DKk35ihP2Vs
+
 seguir puntos de interés: https://www.youtube.com/watch?v=25ri3tDKE2U   
 
 *Tracker 
 Descargar Tracker: https://physlets.org/tracker/
 Tutorial de instalación: 
 https://www.youtube.com/watch?v=3zirzm-rMOo 
+
 Tutoriales Tracker: aqui enseñan como seguir marcadores: en  este programa se puede ver en simultáneo el video y la gráfica del tracking. Precaución¡¡ para marcar manualmente los puntos, cuando se pierde el seguimiento, el programa sugiere oprimir Mayus+click izquierdo. Sin embargo en algunos teclados funcionan Shift+click en vez del Mayus.
+
 https://www.youtube.com/watch?v=UxVqc17fciE
 
 Opensim
