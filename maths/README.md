@@ -2,6 +2,10 @@
 
 Files Contain:
 
+0. Logic
+  0.1. 
+  0.2. 
+
 1. Functions
   1.1. Definition of function, definition of domain and range.
   1.2. Definition of an injective, bijective and surjective function.
