@@ -32,14 +32,19 @@ Referencias (no subir archivos a menos que sean libres)
 
 ## 2.3 Artículos científicos
 
-## 2.4Tutoriales en video
+## 2.4 Tutoriales en video
 Gentle introduction to Machine Learning
 -	[Intro](https://www.youtube.com/watch?v=Gv9_4yMHFhI)	
 StatQuest Channel
 -	[StatQuest](https://www.youtube.com/user/joshstarmer)
 
-## 2.5 Herramientas de programación
+## 2.5 Cursos online
+
+## 2.6 Herramientas de programación
+
 ### Python
 Library for Machine Learning
 -	[Scikit-learn](https://scikit-learn.org/stable/)
 
+### Matlab
+- [ML in MATLAB](https://www.mathworks.com/solutions/machine-learning.html)
