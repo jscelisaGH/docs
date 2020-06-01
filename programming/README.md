@@ -6,7 +6,7 @@ https://es.coursera.org/learn/intro-programming
 ## For presentations and articles
 
 ### LaTex
-https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1, part_2 and part_3)
+https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)
 
 
 ## Languages for develop
@@ -35,7 +35,9 @@ https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 https://towardsdatascience.com/data-scientists-your-variable-names-are-awful-heres-how-to-fix-them-89053d2855be
 
 
-### Summary of Best Practices: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
+### Summary of Best Practices: 
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745
+
 1. Write programs for people, not computers.
     - A program should not require its readers to hold more than a handful of facts in memory at once.
     - Make names consistent, distinctive, and meaningful.
