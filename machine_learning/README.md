@@ -39,6 +39,8 @@ StatQuest Channel
 -	[StatQuest](https://www.youtube.com/user/joshstarmer)
 
 ## 2.5 Cursos online
+Aprendizaje automático
+- [Andrew Ng - Coursera](https://www.coursera.org/learn/machine-learning)
 
 ## 2.6 Herramientas de programación
 
