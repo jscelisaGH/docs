@@ -14,6 +14,7 @@ Files Contain:
   2.1. Introduction to limits, definitions
   2.2. Defnition of a derivation (limit, simple form, graphical form)
   2.3. deniition of maximun and minimun of a function (Optimization)
+  2.4. Curvature, inflexion point and second derivation
 
 ## Libros
 
