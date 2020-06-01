@@ -1,54 +1,47 @@
-# Computational Brain Anatomy and morphometry
+# Anatomía digital por imágenes
 
-## MRI data
+## Modalidades de imágenes médicas
 
-Most MRI data comes in DICOM (.dcm) and NIfTI (.nii or .nii.gz) formats.
+ - Rayos X / X-rays
+ - Tomografía computarizada / Computed Tomography (CT)
+ - Resonancia Magnética / Magnetic Resonance Imaging (MRI)
+ - Ultrasonido / Ultrasound (US)
+ - Tomografía por emisión de positrones / Positron Emission Tomography (PET)
 
-To convert DICOM files to NIfTI format you can use:
+Breve resumen de sus diferencias y usos: [link](https://blog.radiology.virginia.edu/different-imaging-tests-explained/)
 
- - **dcm2niix** function of [MRIcroGL](https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage)
- - **mrconvert** function of [MRtrix3](https://mrtrix.readthedocs.io/en/latest/reference/commands/mrconvert.html)
+## Formatos de las imágenes médicas
 
-## Software and libraries to process MRI data
+### El estándar DICOM
 
- - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
- - [SPM](https://www.fil.ion.ucl.ac.uk/spm/)
- - [MRtrix3](https://www.mrtrix.org/)
- - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)
- - [ANTs](http://stnava.github.io/ANTs/)
- - [NIfTI libary for MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
+[DICOM](https://www.dicomstandard.org/) (Digital Imaging and Communications in Medicine) es el estándar aceptado para el manejo, archivo y transmisión de imágenes médicas. Este formato agrupa la información del paciente y la imágen en un solo archivo.
+En algunos casos una imágen puede estar dividida en varios archivos DICOM, por ejemplo: un volumen, o imagen 3D, esta compuesto por múltiples archivos DICOM que contienen la información para cada una de las *"tajadas"* en 2D.
 
-## Key concepts
+### Otros formatos
 
- - MRI artifacts: Noise, Bias-field
- - Intensity normalisation
- - Registration
- - Segmentation
- - Templates and Atlases
+ - NIfTI (.nii / .nii.gz) usado para imágenes en 3D
 
-## Tutorials
+## Visualización de imágenes médicas
 
- - About MRI pre-processing
- - About registration
+Existen múltiples herramientas para visualizar imágenes médicas, algunas de ellas son:
+- [3D Slicer](https://www.slicer.org/)
+- [Mango](http://ric.uthscsa.edu/mango/mango.html)
+- **mrview** en [MRtrix3](https://mrtrix.readthedocs.io/en/latest/reference/commands/mrview.html)
+- **fslview** en [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslView)
 
-## References
+Ver también:
+[Top 25 Free Dicom Viewers for Doctors, Medical Students, and Health Professionals](https://www.postdicom.com/en/blog/top-25-free-dicom-viewers)
 
-Journal papers describing main concepts and methods
+## Artículos de interés
 
-## Other materials
+ - *Ethics of Artificial Intelligence in Radiology: : Summary of the
+Joint European and North American Multisociety Statement* (Oct, 2019) [link](https://pubs.rsna.org/doi/10.1148/radiol.2019191586)
 
-### Virtual courses
+## Otros vínculos
 
-Some of these courses might be sponsored by Universidad Nacional de Colombia:
-
- - [Fundamental Neuroscience for Neuroimaging](https://www.coursera.org/learn/neuroscience-neuroimaging/) in Coursera
- - [Introduction to Neurohacking In R](https://www.coursera.org/learn/neurohacking) in Coursera
-
-### YouTube videos
-
- - [Mumford Brain Stats](https://www.youtube.com/channel/UCZ7gF0zm35FwrFpDND6DWeA) YouTube channel
+ - [A Comprehensive Guide To Visualizing and Analyzing DICOM Images in Python](https://medium.com/@hengloose/a-comprehensive-starter-guide-to-visualizing-and-analyzing-dicom-images-in-python-7a8430fcb7ed)
 
 #### Contributing
 
-This section is under construction, contributions and suggestions are highly appreciated.  
+This section is under construction, contributions and suggestions are highly appreciated.
 *[Diana Giraldo](https://github.com/diagiraldo)*
