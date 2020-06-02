@@ -11,7 +11,7 @@ Referencias (no subir archivos a menos que sean libres)
 ### Separacion De Color h&E
 	A METHOD FOR NORMALIZING HISTOLOGY SLIDES FOR QUANTITATIVE ANALYSIS
 	Macenko et al.
-	<a href="http://wwwx.cs.unc.edu/~mn/sites/default/files/macenko2009.pdf">
+	[Articulo](http://wwwx.cs.unc.edu/~mn/sites/default/files/macenko2009.pdf)
 
 
 ## Tutoriales
