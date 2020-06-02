@@ -25,7 +25,17 @@ Celis et al-
 ## Tutoriales
 
 ## Datasets
+Warwick:
+https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe/crchistophenotypes_2016_04_28.zip
+Signet Ring Cells:
 
+https://zenodo.org/record/1174353#.XSUtRCa21uQ
+https://cbia.fi.muni.cz/datasets/
+https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4121-7
+@Cvlabstony
+https://www3.cs.stonybrook.edu/~cvl/dataset.html
+http://vision.cs.stonybrook.edu/~lehhou/download/nucleus_classification_dataset.zip
+http://vision.cs.stonybrook.edu/~lehhou/home/individual_lym_dataset.zip
 	
 
 
